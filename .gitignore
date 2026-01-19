@@ -1,0 +1,26 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Environment and Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Python Backend
+backend/venv/
+backend/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.npm-cache/
+frontend/.vite/
+
+# Editor
+.vscode/
+.idea/
