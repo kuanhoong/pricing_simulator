@@ -1,4 +1,4 @@
-# Pricing Simulator Framework
+# RGM Pricing Simulator
 
 
 <img width="1317" height="1203" alt="01" src="https://github.com/user-attachments/assets/0fdcdb4f-04c8-41c9-b705-c85ee7070220" />
