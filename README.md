@@ -1,5 +1,9 @@
 # Pricing Simulator Framework
 
+
+<img width="1317" height="1203" alt="01" src="https://github.com/user-attachments/assets/0fdcdb4f-04c8-41c9-b705-c85ee7070220" />
+
+
 A comprehensive full-stack application for Revenue Growth Management (RGM). This tool allows users to model price elasticities, simulate pricing scenarios, and optimize pricing strategies to maximize revenue and profit.
 
 ## 🚀 Key Features
